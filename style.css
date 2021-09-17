@@ -14,11 +14,6 @@ body {
     margin-top: 50px;
 }
 
-h1 {
-    position: absolute;
-    left: 100px;
-}
-
 .calculator {
     background-color: rgb(78, 72, 72);
     border: 2px solid black;
